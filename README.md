@@ -26,6 +26,7 @@
 
 - [OMG, I’m working remotely, now what?!](https://benediktlehnert.github.io/) 
 - [Zapier, The Ultimate Guide to Remote Work](https://zapier.com/learn/remote-work/)
+- [The best advice for remote work success](https://blog.trello.com/remote-work-team-success-guide)
 
 ## Tools
 
@@ -46,6 +47,11 @@
 - [Meet](https://meet.google.com)
 - [Skype](https://skype.com)
 - [Slack](https://slack.com), free only 1-to-1
+
+### Editing
+
+- [Office 365](https://office.com)
+- [Google Drive](https://drive.google.com)
 
 ## Ways to work together remotly
 
