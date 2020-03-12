@@ -1,7 +1,5 @@
 # Notes Remote Working
 
-![alt text](./imgs/0001.jpeg)
-
 ## Best practices
 
 1. **Fai sapere sempre quando ci sei e quando no**. Mantenere una chat o una stanza dedicata al *checkin* e *checkout* del Team remoto aiuta te e tutti a capire chi sta facendo cosa. Inizio a lavorare? Saluto e dico che ho iniziato a lavorare. Termino di lavorare? Compio la stessa azione.
@@ -64,3 +62,6 @@
 - Slack
 - Google Hangout
 - Facetime
+
+
+![alt text](./imgs/0001.jpeg)
