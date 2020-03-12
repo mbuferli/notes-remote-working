@@ -20,6 +20,13 @@
 
 9. Trova un momento per fare il punto, tutti insieme. Un giorno a settimana ad un orario prestabilito può essere un buon punto di partenza: "tutti i martedi mattina alle 10 ci allineiamo sul progetto". Questo permette di tenere tutti allineati e consci delle difficoltà altrui. Inoltre è buona norma darsi dei compiti per la call successiva e tenerne traccia con dei verbali, cosicchè da poter guardare all'indietro i progressi.
 
+10. Hai bisogno di un buon audio e (non sempre) una buona telecamera. Assicurati che la qualità del tuo audio e del tuo video siano eccellenti.
+
+## Letture
+
+- [OMG, I’m working remotely, now what?!](https://benediktlehnert.github.io/) 
+- [Zapier, The Ultimate Guide to Remote Work](https://zapier.com/learn/remote-work/)
+
 ## Tools
 
 ### File/Workspace Sharing
